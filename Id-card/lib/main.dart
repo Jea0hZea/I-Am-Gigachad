@@ -193,7 +193,7 @@ class BottomSection extends StatelessWidget {
           Card(
             child: ListTile(
               leading: Icon(Icons.email),
-              title: Text('silvia@gmail.com'),
+              title: Text('silviaherlino00@gmail.com'),
             ),
           ),
         ],
